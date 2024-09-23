@@ -15,3 +15,4 @@ Enlaces a la página web del [IES Celia Viñas][1] y a [GitHub][2].
 * Pera
 * Melon
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gato_%282%29_REFON.jpg/1200px-Gato_%282%29_REFON.jpg)
+![](./images/foto.png)
