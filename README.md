@@ -17,6 +17,6 @@ Enlaces a la página web del [IES Celia Viñas][1] y a [GitHub][2].
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gato_%282%29_REFON.jpg/1200px-Gato_%282%29_REFON.jpg)
 ![](./images/foto.png)
 
-Enlaces a la página web del [Markdown Nuevo][1]
+Enlaces a la página web del [Markdown Nuevo][3]
 
-[1]: ./nuevo.md
+[3]: ./nuevo.md
